@@ -1,0 +1,4 @@
+deploy:
+  replicas: 2
+  image:
+    repository: mmertdogann/building-apps
